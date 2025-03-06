@@ -1,1 +1,1 @@
-# Malaria-Detection-Master
+# Malaria-Detection
